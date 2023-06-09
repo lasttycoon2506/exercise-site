@@ -1,6 +1,7 @@
 # exercise-app
 
-INSTALLATION:
+```bash
+##INSTALLATION:
 git clone https://github.com/lasttycoon2506/exercise-app.git
 cd exercise-app
 npm install
@@ -14,5 +15,5 @@ npm start
 START CLIENT:
 cd my-app
 npm start
-
+```
 
