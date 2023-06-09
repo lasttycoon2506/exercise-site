@@ -8,11 +8,11 @@ npm install
 cd my-app
 npm install
 
-START SERVER:
+##START SERVER:
 cd exercise-app
 npm start
 
-START CLIENT:
+##START CLIENT:
 cd my-app
 npm start
 ```
