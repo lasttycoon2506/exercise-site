@@ -2,6 +2,7 @@
 
 ```bash
 ##INSTALLATION:
+install Node.js
 install mongoDB
 git clone https://github.com/lasttycoon2506/exercise-app.git
 cd exercise-app
