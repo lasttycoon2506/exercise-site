@@ -4,7 +4,7 @@
 ##INSTALLATION:
 install Node.js
 install mongoDB
-git clone https://github.com/lasttycoon2506/exercise-app.git
+git clone https://github.com/lasttycoon2506/exercise-site.git
 cd exercise-app
 npm install
 cd my-app
