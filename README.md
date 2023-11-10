@@ -1,8 +1,8 @@
 # Exercise-App
 
-##Installation:
+## Installation:
 ```
-##Installation:
+
 install Node.js
 install mongoDB
 git clone https://github.com/lasttycoon2506/exercise-site.git
