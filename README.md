@@ -22,6 +22,7 @@ npm install
   Server sucessfully started:
   
   ![Screenshot 2023-11-10 164138](https://github.com/lasttycoon2506/exercise-site/assets/114425878/3ed95d6f-1f76-49e4-84c8-7172c52ad805)
+  
 
   ### To Start Client:
   Type the below into the command-line:
@@ -38,6 +39,8 @@ npm install
 
   ![Screenshot 2023-11-10 165015](https://github.com/lasttycoon2506/exercise-site/assets/114425878/996dcc23-505d-4433-9800-152258a4da61)
 
+  
+
   ### To Add an Exercise:
   Simply click on ADD button from Your Exercises pg.:
 
@@ -51,6 +54,8 @@ npm install
 
   ![Screenshot 2023-11-10 170012](https://github.com/lasttycoon2506/exercise-site/assets/114425878/8fdec9ed-b2a6-4a12-9d7f-f4c769cc926e)
 
+  
+
   ### To Edit an Exercise:
   Click on edit icon for exercise to be edited from Your Exercises Pg:
 
@@ -61,6 +66,8 @@ npm install
   ![Screenshot 2023-11-10 171918](https://github.com/lasttycoon2506/exercise-site/assets/114425878/2b15ecf5-96f8-4dda-b9b9-17a7db8d8306)
 
   Edited exercise will now be reflected from Your Exercises pg
+
+
 
   ### To Delete an Exercise:
   Click on delete icon for exercise to be deleted from Your Exercises Pg:
