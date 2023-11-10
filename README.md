@@ -1,5 +1,5 @@
 # Exercise-App
-An Exercise App Site that allows for recording, updating, and deleting of exercises as an exercise routine
+An Exercise App Site that allows for recording, updating, and deleting of exercises 
 
 ## Introduction:
 An Exercise App site using MongoDB as a document-based database (local) allowing for a viewable list of exercises; each exercise with several recordable details (exercise name, weight, date, weight unit & reps). Each exercise capable of being edited and deleted.
