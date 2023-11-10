@@ -43,7 +43,7 @@ npm install
 
   ![Screenshot 2023-11-10 165649](https://github.com/lasttycoon2506/exercise-site/assets/114425878/031d59c4-f9e1-40ae-bc12-9748624a5ac8)
 
-  Enter Exercise information and hit Submit:
+  Enter Exercise information and hit SUBMIT:
 
   ![Screenshot 2023-11-10 165852](https://github.com/lasttycoon2506/exercise-site/assets/114425878/5b7b5878-b710-4be8-b398-55b757a4afe9)
 
