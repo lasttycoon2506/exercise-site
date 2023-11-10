@@ -13,14 +13,14 @@ npm install
 
 ```
 ## How-To
-  ### To Start Server:
+  #### To Start Server:
   Type the below into the command-line:
   ```
   cd exercise-site
   npm start
   ```
 
-  ### To Start Client:
+  #### To Start Client:
   Type the below into the command-line:
   ```
   cd my-app
