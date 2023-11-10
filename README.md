@@ -20,6 +20,9 @@ npm install
   npm start
   ```
 
-## To Start Client:
-cd my-app
-npm start
+  ### To Start Client:
+  Type the below into the command-line:
+  ```
+  cd my-app
+  npm start
+  ```
