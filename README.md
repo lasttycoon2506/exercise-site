@@ -38,7 +38,7 @@ npm install
 
   ![Screenshot 2023-11-10 165015](https://github.com/lasttycoon2506/exercise-site/assets/114425878/996dcc23-505d-4433-9800-152258a4da61)
 
-  ### To Add Exercise:
+  ### To Add an Exercise:
   Simply click on ADD button from Your Exercises pg.:
 
   ![Screenshot 2023-11-10 165649](https://github.com/lasttycoon2506/exercise-site/assets/114425878/031d59c4-f9e1-40ae-bc12-9748624a5ac8)
@@ -51,7 +51,7 @@ npm install
 
   ![Screenshot 2023-11-10 170012](https://github.com/lasttycoon2506/exercise-site/assets/114425878/8fdec9ed-b2a6-4a12-9d7f-f4c769cc926e)
 
-  ### To Edit Exercise:
+  ### To Edit an Exercise:
   Click on edit icon for exercise to be edited from Your Exercises Pg:
 
   ![Screenshot 2023-11-10 172348](https://github.com/lasttycoon2506/exercise-site/assets/114425878/29a2d11b-5c6d-4aec-ac15-fd636a71e52e)
@@ -62,7 +62,7 @@ npm install
 
   Edited exercise will now be reflected from Your Exercises pg
 
-  ### To Delete Exercise:
+  ### To Delete an Exercise:
   Click on delete icon for exercise to be deleted from Your Exercises Pg:
 
   ![Screenshot 2023-11-10 172914](https://github.com/lasttycoon2506/exercise-site/assets/114425878/708486da-d2c9-4960-886d-13ccaa9e2c81)
