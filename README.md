@@ -52,7 +52,12 @@ npm install
   ![Screenshot 2023-11-10 170012](https://github.com/lasttycoon2506/exercise-site/assets/114425878/8fdec9ed-b2a6-4a12-9d7f-f4c769cc926e)
 
   ### To Edit Exercise:
-  Click on ![image](https://github.com/lasttycoon2506/exercise-site/assets/114425878/d44bb5f1-0433-47ea-b20a-03bf44039d03)
+  Click on edit button for exercise to be deleted from Your Exercises Pg
+
+  ![Screenshot 2023-11-10 171918](https://github.com/lasttycoon2506/exercise-site/assets/114425878/823ca0a9-90d1-4745-b8ab-b2a636694da0)
+
+  Edited exercise will now be reflected from Your Exercises pg
+
 
 
 
