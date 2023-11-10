@@ -3,7 +3,7 @@
 ## Installation:
 1) Download & install Node.js
 2) Download & install MongoDB Community Edition (install as service & run service as network service user)
-3) Type the below into command-line:
+3) To install the APP type the below into command-line:
 ```
 git clone https://github.com/lasttycoon2506/exercise-site.git
 cd exercise-site
