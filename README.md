@@ -1,6 +1,7 @@
 # Exercise-App
 
-```bash
+##Installation:
+```
 ##Installation:
 install Node.js
 install mongoDB
