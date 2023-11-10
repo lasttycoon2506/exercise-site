@@ -31,6 +31,7 @@ npm install
   ```
 
   Client sucessfully started:
+  
   ![Screenshot 2023-11-10 164743](https://github.com/lasttycoon2506/exercise-site/assets/114425878/e90018d1-6560-4a2d-b125-59806fa6c701)
   
   Viewable App in browser:
