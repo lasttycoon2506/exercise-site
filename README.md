@@ -13,7 +13,7 @@ npm install
 
 ```
 ## How-To
-  #### To Start Server:
+  ### To Start Server:
   Type the below into the command-line:
   ```
   cd exercise-site
