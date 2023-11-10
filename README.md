@@ -1,7 +1,7 @@
-# exercise-app
+# Exercise-App
 
 ```bash
-##INSTALLATION:
+##Installation:
 install Node.js
 install mongoDB
 git clone https://github.com/lasttycoon2506/exercise-site.git
@@ -10,11 +10,11 @@ npm install
 cd my-app
 npm install
 
-##START SERVER:
+##To Start Server:
 cd exercise-site
 npm start
 
-##START CLIENT:
+##To Start Client:
 cd my-app
 npm start
 ```
